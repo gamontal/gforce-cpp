@@ -1,3 +1,4 @@
+// Copyright <Gabriel M.R.>
 /*
 
 Newton's Law of Universal Gravitation - C++ Implementation
